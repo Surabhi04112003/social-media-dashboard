@@ -22,7 +22,6 @@ streamlit run app.py
 ## Dataset
 Dataset Source: Public dataset taken from Kaggle/GitHub for educational purposes.
 
-Note: Dataset is not uploaded here due to licensing and size.
-
+Note: Dataset and Power BI files are not uploaded due to licensing and size.
 ## Author
 Surabhi
